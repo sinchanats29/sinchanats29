@@ -26,6 +26,7 @@
 - Provides real-time predictions based on user input  
 
 👉 GitHub Repo: https://github.com/sinchanats29/multiple-disease-prediction 
+                 https://github.com/sinchanats29/shopsphere-ecommerce
 
 ---
 
