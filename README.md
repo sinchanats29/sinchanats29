@@ -25,8 +25,8 @@
 - Built using Python and Django  
 - Provides real-time predictions based on user input  
 
-👉 GitHub Repo: https://github.com/sinchanats29/multiple-disease-prediction 
-                 https://github.com/sinchanats29/shopsphere-ecommerce
+👉 GitHub Repo1: https://github.com/sinchanats29/multiple-disease-prediction 
+    GitHub Repo2: https://github.com/sinchanats29/shopsphere-ecommerce
 
 ---
 
