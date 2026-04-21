@@ -25,7 +25,7 @@
 - Built using Python and Django  
 - Provides real-time predictions based on user input  
 
-👉 GitHub Repo: https://github.com/sinchanats29/disease_prediction  
+👉 GitHub Repo: https://github.com/sinchanats29/multiple-disease-prediction 
 
 ---
 
