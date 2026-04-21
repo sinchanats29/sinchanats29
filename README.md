@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sinchana 👋
 
-<!--
-**sinchanats29/sinchanats29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Graduate  
+💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- Passionate about building real-world applications  
+- Interested in Machine Learning and Web Development  
+- Currently improving my problem-solving and development skills  
+
+---
+
+## 🔧 Skills
+- Python, Django  
+- Machine Learning  
+- HTML, CSS  
+
+---
+
+## 📌 Projects
+### 🔹 Multiple Disease Prediction System
+- Machine learning-based web app for predicting diseases  
+- Built using Python and Django  
+- Provides real-time predictions based on user input  
+
+👉 GitHub Repo: https://github.com/sinchanats29/disease_prediction  
+
+---
+
+## 📫 Contact
+- Email: tssinchana8@gmail.com  
+- GitHub: https://github.com/sinchanats29  
+
+---
+
+⭐ If you like my projects, feel free to star them!
